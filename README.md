@@ -1,10 +1,11 @@
 
 # Exchange Rate Calculator App (Simple Euro to Vietnam Dong Converter) 
+
 This guide explains a user-friendly Android application that converts Euros to Vietnam Dong (VND) using live exchange rates. 
 
 ## What it Does:
 
-Converts Euro amounts to VND based on the latest exchange rates.
+Converts Euro amounts to VND based on the latest exchange rates. 
 Fetches exchange rates from an external API (https://api.fxratesapi.com/).
 
 ## Getting Started:
@@ -21,8 +22,8 @@ Fetches exchange rates from an external API (https://api.fxratesapi.com/).
 
 The app features two input fields:
 - Enter the Euro amount you want to convert.
-- The converted VND amount will be displayed (initially 0).
-The exchange rate is automatically retrieved upon app launch.
+- The converted VND amount will be displayed (initially 0). 
+The exchange rate is automatically retrieved upon app launch. 
 To convert, simply enter a Euro value and tap "Calculate" The corresponding VND amount will appear in the second field.
 
 ### Technical Details:
