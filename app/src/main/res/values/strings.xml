@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExchangeRates</string>
+    <string name="currency_calculator">Currency Calculator</string>
+    <string name="enter_euros">Enter euros</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result is %s vnd</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="currency_converter_1">Currency Converter</string>
+</resources>
