@@ -31,5 +31,6 @@ Dependencies:
 - Retrofit: Handles network communication with the currency API.
 - Gson: Parses JSON data received from the API.
 - ViewModel & LiveData: Manages UI state and data effectively.
+  
 API Source: The app utilizes https://api.fxratesapi.com/ to fetch live currency rates.
 
